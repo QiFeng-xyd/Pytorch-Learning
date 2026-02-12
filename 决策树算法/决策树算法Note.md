@@ -12,3 +12,5 @@
 ## 划分选择
 ### 信息增益
 <img width="1530" height="916" alt="image" src="https://github.com/user-attachments/assets/60b9b85e-e9f3-47b6-aecb-f1576fc39626" />
+### 增益率
+<img width="1510" height="688" alt="image" src="https://github.com/user-attachments/assets/7ae75909-7b68-4015-a5e8-5c7700f2b99c" />
